@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RestuAlamBagaskara
 - 👀 I’m interested in Machine Learning and Backend Developer
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me restualam41@gmail.com
+- 🌱 I’m experienced in Laravel and Node Js
+- 📫 How to reach me alambagaskara18@gmail.com
+
 
 \
 <br/>
