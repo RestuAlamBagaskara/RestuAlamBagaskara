@@ -7,11 +7,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Logo?logo=javascript&color=black)
 ![PHP](https://img.shields.io/badge/PHP-Logo?logo=php&color=black)
 ![Python](https://img.shields.io/badge/Python-Logo?logo=python&color=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Logo?logo=tensorflow&color=black)
 ![NodeJs](https://img.shields.io/badge/NodeJs-Logo?logo=node.js&color=black)
 ![Express](https://img.shields.io/badge/ExpressJs-Logo?logo=express&color=black)
 ![Laravel](https://img.shields.io/badge/Laravel-Logo?logo=laravel&color=black)
-![VueJs](https://img.shields.io/badge/Bootstrap-Logo?logo=bootstrap&color=black)
-![VueJs](https://img.shields.io/badge/Tailwind-Logo?logo=tailwindcss&color=black)
+![Booststrap](https://img.shields.io/badge/Bootstrap-Logo?logo=bootstrap&color=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-Logo?logo=tailwindcss&color=black)
 ![VueJs](https://img.shields.io/badge/Vue-Logo?logo=vue.js&color=black)
 
 
@@ -24,10 +25,15 @@
 </div>
 
 ## Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RestuAlamBagaskarah&label=Profile%20views&color=0e75b6&style=flat" alt="RestuAlamBagaskara" /> </p>
-<p align="left">
-<a href="https://github.com/RestuAlamBagaskara">
-  <img align="left" alt="RestuAlamBagaskara" src="https://github-readme-stats.vercel.app/api?username=RestuAlamBagaskara&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"" />
-  <img align="left" alt="RestuAlamBagaskara" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestuAlamBagaskara&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=algolia" />
-</a>
-</p>
+<div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=RestuAlamBagaskarah&label=Profile%20views&color=0e75b6&style=flat" alt="RestuAlamBagaskara" /> </p>
+  <p align="left">
+    <a href="https://github.com/RestuAlamBagaskara">
+      <img align="left" alt="RestuAlamBagaskara" src="https://github-readme-stats.vercel.app/api?username=RestuAlamBagaskara&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"" />
+      <img align="left" alt="RestuAlamBagaskara" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestuAlamBagaskara&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=algolia" />
+    </a>
+  </p>
+</div>
+
+## More
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0170ad?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/restualambagaskara/)
