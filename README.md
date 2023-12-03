@@ -4,6 +4,16 @@
 - 📫 How to reach me alambagaskara18@gmail.com
 
 ## Tech Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-Logo?logo=javascript&color=black)
+![PHP](https://img.shields.io/badge/PHP-Logo?logo=php&color=black)
+![Python](https://img.shields.io/badge/Python-Logo?logo=python&color=black)
+![NodeJs](https://img.shields.io/badge/NodeJs-Logo?logo=node.js&color=black)
+![Express](https://img.shields.io/badge/ExpressJs-Logo?logo=express&color=black)
+![Laravel](https://img.shields.io/badge/Laravel-Logo?logo=laravel&color=black)
+![VueJs](https://img.shields.io/badge/Bootstrap-Logo?logo=bootstrap&color=black)
+![VueJs](https://img.shields.io/badge/Tailwind-Logo?logo=tailwindcss&color=black)
+![VueJs](https://img.shields.io/badge/Vue-Logo?logo=vue.js&color=black)
+
 
 
 ## Badge
