@@ -37,7 +37,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=RestuAlamBagaskarah&label=Profile%20views&color=0e75b6&style=flat" alt="RestuAlamBagaskara" /> </p>
   <p align="left">
     <a href="https://github.com/RestuAlamBagaskara">
-      <img align="left" alt="RestuAlamBagaskara" src="https://github-readme-stats.vercel.app/api?username=RestuAlamBagaskara&show_icons=true&hide_border=true&theme=algolia&count_private=true"" />
+      <img align="left" alt="RestuAlamBagaskara" src="https://github-readme-stats.vercel.app/api?username=RestuAlamBagaskara&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
       <img align="left" alt="RestuAlamBagaskara" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestuAlamBagaskara&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=algolia" />
     </a>
   </p>
