@@ -28,6 +28,7 @@
 ## Badge
 <div style="display:inline">
   <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="50" height="50">
+  <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Introduction to Cybersecurity" width="50" height="50">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80615179" alt="Introduction to Cybersecurity" width="50" height="50">
   <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CSCU_BB8BB6E9DDE8.png" alt="Introduction to Cybersecurity" width="50" height="50">
 </div>
